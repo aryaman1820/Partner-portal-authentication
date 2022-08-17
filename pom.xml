@@ -131,6 +131,7 @@
 				</dependencies>
 			</plugin>
 		</plugins>
+		<finalName>partner-portal-authentication</finalName>
 	</build>
 
 </project>
